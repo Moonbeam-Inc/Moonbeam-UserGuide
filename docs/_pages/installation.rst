@@ -9,7 +9,7 @@ Installation
     •	Oculus : https://www.oculus.com/experiences/quest/3926730380696874/
 
 
-    •	Pico : tbd
+    •	Pico : TBD
 
 
-    •	Windows PC :tbd
+    •	Windows PC : TBD
