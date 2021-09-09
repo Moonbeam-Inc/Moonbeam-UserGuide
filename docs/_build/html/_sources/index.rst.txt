@@ -30,4 +30,5 @@ Welcome to Moonbeam Envision's Documentation page. Here you will get a tutorial 
 
 Links
 -----
-* Contact: ryan@moonbeam.ai
+* Website: https://moonbeam.ai/envision/
+* Contact: MoonbeamEngage@moonbeam.ai
