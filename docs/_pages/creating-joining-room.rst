@@ -21,7 +21,7 @@ To Join an Existing Room
 2)	Enter code into the box to join new rooms
 
 
-   •	When joining a room, the rooms will be accessible at all times
+   •	When joining a room, the rooms will be always accessible
       
       i.	These rooms can be accessed by going to Options -> Manage Rooms 
  
@@ -49,7 +49,7 @@ Setting up a Meeting
    Figure 6.1
 
 
-2)	In the settings fill out the information for the room and then select Create room when done
+2)	In the settings fill is out the information for the room and then select Create room when done
 
 
    •	The rooms will remain accessible to any member who has been given the room code even if it out of the scope of the meeting times

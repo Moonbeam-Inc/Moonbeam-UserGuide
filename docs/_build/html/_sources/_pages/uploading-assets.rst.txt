@@ -15,7 +15,7 @@ When you select Model Viewer, PDF, or Photo Viewer; Figure 11.1 should appear fr
    •	Model Viewer: Allows zip files of the file type:
    
    
-      i.	DAE(1.5), OBJ, STL, 3DS, BLEND, LWO, LWS, B3D, SMD, PLY, X, DXF, FBX(2013), glTF(1.0)
+      i.	DAE (1.5), OBJ, STL, 3DS, BLEND, LWO, LWS, B3D, SMD, PLY, X, DXF, FBX (2013), glTF (1.0)
    
    
    •	PDF: Only allows .pdf files to be selected

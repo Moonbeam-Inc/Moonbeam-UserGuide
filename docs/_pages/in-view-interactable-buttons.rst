@@ -25,9 +25,9 @@ There are 5 buttons in total that can be used on screen:
 |    :height: 80                    | if there are bugs, restart the device       |
 |    :width: 80                     | and try again                               |
 +-----------------------------------+---------------------------------------------+
-| .. Figure:: _images/Picture33.png | Open larger set of emojis that when pressed |
-|    :height: 80                    | it will appear above the user's avatar      |
-|    :width: 80                     | (Figure 12.1/12.2)                          |
+| .. Figure:: _images/Picture33.png | Open a larger set of emojis that when       |
+|    :height: 80                    | pressed it will appear above the user's     |
+|    :width: 80                     | avatar (Figure 12.1/12.2)                   |
 +-----------------------------------+---------------------------------------------+
 
 

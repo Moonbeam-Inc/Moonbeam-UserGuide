@@ -69,8 +69,8 @@ The widget board has these functions:
 +----------------+---------------------------------------------+
 | Button         | Action                                      |
 +----------------+---------------------------------------------+
-| White Board    | Turns into whiteboard where user can free   |
-|                | hand write                                  |
+| White Board    | Turns into a whiteboard where users can     |
+|                | write freely                                |
 +----------------+---------------------------------------------+
 | Web Browser    | Becomes a web browser that user can use     |
 |                | to search content online                    |
@@ -133,10 +133,16 @@ Whiteboard
 ----------
 
 
-The whiteboard is a freehand whiteboard similar to the Widget Board whiteboard. What sets this different from the widget is that the widget uses a laser pointer to draw but for the whiteboard it uses VR controllers to mimic the action of writing onto the whiteboard. 
+The whiteboard is a freehand whiteboard like the Widget Board whiteboard. What makes this different from the widget is that the widget uses a laser pointer to draw but for the whiteboard it uses VR controllers to mimic the action of writing onto the whiteboard. 
+
+
 To draw on the whiteboard just go up to it and bring your controllers close to the board and a drawing tool will appear. 
-To erase on the whiteboard face your palms up which will spawn an eraser and then rub across the board 
-If you want to save what is written, there is a Email a Snapshot button below the board which can send the drawings over. 
+
+
+To erase on the whiteboard, face your palms up which will spawn an eraser and then rub across the board 
+
+
+If you want to save what is written, there is an Email a Snapshot button below the board which can send the drawings over. 
 
 
 
