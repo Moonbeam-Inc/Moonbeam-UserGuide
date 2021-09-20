@@ -121,6 +121,13 @@ Transcript
 The transcript function will automatically keep track of what is said in the meeting space when a user speaks. This can be emailed directly to your email address. 
 
 
+Insights
+--------
+
+
+The insight function will automatically save user’s comments that the system recognizes to be of importance. For example, questions or commands are saved onto insights. 
+
+
 .. Figure:: _images/Picture37.png
    :height: 400
    :width: 600
