@@ -79,7 +79,7 @@ Desktop
    Figure 0.5
 
 
-   .. Figure:: _images/installation_desktop3.png
+.. Figure:: _images/installation_desktop3.png
    :height: 400
    :width: 600
 

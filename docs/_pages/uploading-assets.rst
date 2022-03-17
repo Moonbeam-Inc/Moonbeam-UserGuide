@@ -107,7 +107,7 @@ Preparation for Oculus Quest/Quest 2
 
 
 .. Figure:: _images/uploading_asset1.png
-   :height: 400
+   :height: 300
    :width: 100
 
 
@@ -115,7 +115,7 @@ Preparation for Oculus Quest/Quest 2
 
 
 .. Figure:: _images/uploading_asset2.png
-   :height: 400
+   :height: 300
    :width: 600
 
 
@@ -123,7 +123,7 @@ Preparation for Oculus Quest/Quest 2
 
 
 .. Figure:: _images/uploading_asset3.png
-   :height: 400
+   :height: 300
    :width: 600
 
 
