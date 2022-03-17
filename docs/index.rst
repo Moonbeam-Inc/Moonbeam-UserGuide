@@ -21,6 +21,7 @@ Welcome to Moonbeam Envision's Documentation page. Here you will get a tutorial 
    _pages/creating-joining-room
    _pages/creating-a-team
    _pages/basic-room-controls
+   _pages/in-game-menu
    _pages/tools
    _pages/uploading-assets
    _pages/in-view-interactable-buttons
