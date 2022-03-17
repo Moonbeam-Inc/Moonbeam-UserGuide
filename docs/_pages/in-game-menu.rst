@@ -36,10 +36,10 @@ Edit Current Room
 Room Mode: 
 
 
-   •	Lecture mode has one speaker where voice is relayed to everyone
+Lecture mode has one speaker where voice is relayed to everyone
 
 
-   •	Discussion mode allows all users to have spatial hearing with other users
+Discussion mode allows all users to have spatial hearing with other users
 
 
 Vista Views: Changes the scenery outside the room
