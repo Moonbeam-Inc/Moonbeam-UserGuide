@@ -2,9 +2,8 @@
 Uploading Assets onto Room
 --------------------------
 
-
-***Note: Only the administrator can upload or delete files to the team drive, also to import files to be presented they can only be added by Desktop***
-
+Accessing files in game
+-----------------------
 
 When you select Model Viewer, PDF, or Photo Viewer; Figure 11.1 should appear from there:
 
@@ -92,3 +91,38 @@ When you select Model Viewer, PDF, or Photo Viewer; Figure 11.1 should appear fr
 
 
    Figure 11.6
+
+
+
+Preparation for Oculus Quest/Quest 2
+------------------------------------
+
+1) Connect the Quest to your computer of choice using a usb-c cable
+
+
+2) You will be prompted with a permission prompt that says "Allow access to data", press "Allow"
+
+
+3) Go to the file explorer and select Oculus -> Internal Storage -> Downloads
+
+
+4) From there place amy downloaded files of the type :
+
+
+   •	Model Viewer: Allows zip files of the file type:
+   
+   
+      i.	DAE (1.5), OBJ, STL, 3DS, BLEND, LWO, LWS, B3D, SMD, PLY, X, DXF, FBX (2013), glTF (1.0)
+   
+   
+   •	PDF: Only allows .pdf files to be selected
+   
+   
+   •	Photo Viewer: Only allows for .png files to be selected
+
+
+5) Follow steps from "Accessing files in game" to access uploaded file in game
+
+
+   •	Note: Quest file path will start from "/sdcard" and can follow down the file path to the downloads folder
+    

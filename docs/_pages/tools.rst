@@ -146,7 +146,10 @@ The whiteboard is a freehand whiteboard like the Widget Board whiteboard. What m
 To draw on the whiteboard just go up to it and bring your controllers close to the board and a drawing tool will appear. 
 
 
-To erase on the whiteboard, face your palms up which will spawn an eraser and then rub across the board 
+To erase on the whiteboard, face your palms up which will spawn an eraser and then rub across the board .
+
+
+On the sides of the whiteboard, there are color palletes that you can press the trigger over the desired color to use it. 
 
 
 If you want to save what is written, there is an Email a Snapshot button below the board which can send the drawings over. 
