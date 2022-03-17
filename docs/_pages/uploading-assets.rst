@@ -106,6 +106,30 @@ Preparation for Oculus Quest/Quest 2
 3) Go to the file explorer and select Oculus -> Internal Storage -> Downloads
 
 
+.. Figure:: _images/uploading_asset1.png
+   :height: 400
+   :width: 100
+
+
+   Figure 11.7
+
+
+.. Figure:: _images/uploading_asset2.png
+   :height: 400
+   :width: 600
+
+
+   Figure 11.8
+
+
+.. Figure:: _images/uploading_asset3.png
+   :height: 400
+   :width: 600
+
+
+   Figure 11.9
+
+
 4) From there place amy downloaded files of the type :
 
 

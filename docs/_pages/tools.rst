@@ -95,6 +95,18 @@ The widget board has these functions:
 
    Figure 10.1
 
+
+Initial web browser homepage can be changed in the main menu options -> settings -> browser homepage. 
+
+
+.. Figure:: _images/browserhomepage.png
+   :height: 400
+   :width: 600
+
+
+   Figure 11.1
+
+
 Sitting
 -------
 
@@ -111,7 +123,7 @@ Sitting
    :width: 600
 
 
-   Figure 13.1
+   Figure 12.1
 
 
 Transcript
@@ -133,7 +145,7 @@ The insight function will automatically save user’s comments that the system r
    :width: 600
 
 
-   Figure 14.1
+   Figure 13.1
 
 
 Whiteboard
@@ -149,16 +161,16 @@ To draw on the whiteboard just go up to it and bring your controllers close to t
 To erase on the whiteboard, face your palms up which will spawn an eraser and then rub across the board .
 
 
-On the sides of the whiteboard, there are color palletes that you can press the trigger over the desired color to use it. 
+On the sides of the whiteboard, there are color palletes that you can press the trigger over the desired color to use it. The color of the marker will change to the selected color as well to confirm if it has been selected. 
 
 
 If you want to save what is written, there is an Email a Snapshot button below the board which can send the drawings over. 
 
 
 
-.. Figure:: _images/Picture38.png
+.. Figure:: _images/tools_new_whiteboard.jpg
    :height: 400
    :width: 600
    
 
-   Figure 15.1
+   Figure 14.1

@@ -116,8 +116,8 @@ Uninstalling on Windows
 
 
 .. Figure:: _images/installation_uninstall2.png
-   :height: 400
-   :width: 600
+   :height: 200
+   :width: 400
 
 
    Figure 0.9
