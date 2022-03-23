@@ -18,7 +18,7 @@ Oculus Quest/Quest 2
         i.	After the setup portion, you want to follow the instructions on Sideloading an .apk from an external source
 
 
-3)	Once it is successfully on your quest you will find the package by going on Apps-> Unknown Sources -> Moonbeam (Figure 0.1-0.3)
+3)	Once it is successfully on your quest you will find the package by going on Apps-> Unknown Sources -> Moonbeam (Figure 1-3)
 
 
     a.	If Moonbeam does not appear under Unknown Sources, then redo the SideQuest tutorial
@@ -29,7 +29,7 @@ Oculus Quest/Quest 2
    :width: 600
 
 
-   Figure 0.1
+   Figure 1
 
 
 .. Figure:: _images/Picture02.png
@@ -37,7 +37,7 @@ Oculus Quest/Quest 2
    :width: 600
 
 
-   Figure 0.2
+   Figure 2
 
 
 .. Figure:: _images/Picture03.png
@@ -45,7 +45,7 @@ Oculus Quest/Quest 2
    :width: 600
 
 
-   Figure 0.3
+   Figure 3
 
 
 Desktop 
@@ -62,7 +62,7 @@ Desktop
    :width: 600
 
 
-   Figure 0.4
+   Figure 4
 
 
 2) Follow through the settings
@@ -76,7 +76,7 @@ Desktop
    :width: 600
 
 
-   Figure 0.5
+   Figure 5
 
 
 .. Figure:: _images/installation_desktop3.png
@@ -84,7 +84,7 @@ Desktop
    :width: 600
 
 
-   Figure 0.6
+   Figure 6
 
 
 3) Press install and it will automatically open the room for you.
@@ -95,7 +95,7 @@ Desktop
    :width: 600
 
 
-   Figure 0.7
+   Figure 7
 
 
 Uninstalling on Windows
@@ -109,7 +109,7 @@ Uninstalling on Windows
    :width: 600
 
 
-   Figure 0.8
+   Figure 8
 
 
 2) From storage settings, search for the app "Moonbeam Envision version #.##" and press uninstall.
@@ -120,4 +120,4 @@ Uninstalling on Windows
    :width: 400
 
 
-   Figure 0.9
+   Figure 9

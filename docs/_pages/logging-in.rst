@@ -11,7 +11,7 @@ Logging in
    :width: 600
 
 
-   Figure 3.1
+   Figure 1
 
 
 2)	Sign in using your email as the username and the password you made from when you created the account
@@ -25,4 +25,4 @@ Logging in
    :width: 600
 
 
-   Figure 3.2
+   Figure 2

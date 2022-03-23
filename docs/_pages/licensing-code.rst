@@ -11,7 +11,7 @@ Licensing Code
    :width: 600
 
 
-   Figure 4.1
+   Figure 1
 
 
 2)	From this menu, fill out the license key which was received from Moonbeam
@@ -22,4 +22,4 @@ Licensing Code
    :width: 600
 
 
-   Figure 4.2
+   Figure 2

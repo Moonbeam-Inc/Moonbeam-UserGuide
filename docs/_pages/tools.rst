@@ -22,7 +22,7 @@ The insight function will automatically save user’s comments that the system r
    :width: 600
 
 
-   Figure 13.1
+   Figure 1
 
 
 Whiteboard
@@ -49,7 +49,7 @@ If you want to save what is written, there is an Email a Snapshot button below t
    :width: 600
    
 
-   Figure 14.1
+   Figure 2
 
 
 Widget Board
@@ -85,7 +85,7 @@ The widget board has these functions:
    :width: 600
 
 
-   Figure 10.1
+   Figure 3
 
 
 Initial web browser homepage can be changed in the main menu options -> settings -> browser homepage. 
@@ -96,7 +96,7 @@ Initial web browser homepage can be changed in the main menu options -> settings
    :width: 600
 
 
-   Figure 11.1
+   Figure 4
 
 
 Sticky/Bulletin Board
@@ -111,7 +111,7 @@ The whiteboarding tool would be used for organization of ideas and will give mul
    :width: 600
 
 
-   Figure 9.1
+   Figure 5
 
 
 Each button on the tool bar (Figure 9.2) does the following:
@@ -122,13 +122,13 @@ Each button on the tool bar (Figure 9.2) does the following:
 +-----------------------------+---------------------------------------------+
 | Sticky note with the + sign | This will upload a new sticky note where    |
 |                             | the user can type onto the note and change  |
-|                             | the color of the sticky note (Figure 9.3)   |
+|                             | the color of the sticky note (Figure 7)     |
 +-----------------------------+---------------------------------------------+
 | Colored sticky notes        | Depending on the color the user selects,    |
 |                             | everything but the selected color note will |
 |                             | turn invisible                              |
 +-----------------------------+---------------------------------------------+
-| White graph                 | Produces a 3D model graph (Figure 9.4)      |
+| White graph                 | Produces a 3D model graph (Figure 8)        |
 +-----------------------------+---------------------------------------------+
 
 
@@ -137,7 +137,7 @@ Each button on the tool bar (Figure 9.2) does the following:
    :width: 600
 
 
-   Figure 9.2
+   Figure 6
   
 
 .. Figure:: _images/Picture20.png
@@ -145,7 +145,7 @@ Each button on the tool bar (Figure 9.2) does the following:
    :width: 600
 
 
-   Figure 9.3		 				    
+   Figure 7		 				    
 
 
 .. Figure:: _images/Picture21.png
@@ -153,5 +153,5 @@ Each button on the tool bar (Figure 9.2) does the following:
    :width: 600
 
 
-   Figure 9.4
+   Figure 8
 

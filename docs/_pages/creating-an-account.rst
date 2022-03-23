@@ -10,7 +10,7 @@ Creating an Account
    :width: 600
 
 
-   Figure 1.1
+   Figure 1
 
 
 2)	Select the Sign up for a Moonbeam Envision account to sign up for an account, which leads to the screen below
@@ -20,7 +20,7 @@ Creating an Account
    :width: 600 
 
 
-   Figure 1.2
+   Figure 2
 
 
 

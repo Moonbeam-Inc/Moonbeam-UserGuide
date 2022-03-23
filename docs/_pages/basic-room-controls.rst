@@ -12,7 +12,7 @@ Oculus Quest 1 & 2
    :width: 600
 
 
-   Figure 8.1
+   Figure 1
 
 
 +----------------+-----------------------------------------------------------------+
@@ -41,7 +41,7 @@ Another function unique to the VR headset is that the personal note taker can be
    :width: 600
 
 
-   Figure 8.2
+   Figure 2
 
 
 Desktop 
@@ -77,4 +77,4 @@ Sitting
    :width: 600
 
 
-   Figure 12.1
+   Figure 3

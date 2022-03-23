@@ -8,7 +8,10 @@ There are 5 buttons in total that can be used on screen:
 
 .. Figure:: _images/Picture29.png
    :height: 80                   
-   :width: 80                    
+   :width: 80      
+   
+
+   Figure 1
 
 
    Toggle the active state of the sidebar conversation
@@ -19,6 +22,9 @@ There are 5 buttons in total that can be used on screen:
    :width: 80                   
 
 
+   Figure 2
+
+
    Toggle the picture to picture mode        
 
 
@@ -27,12 +33,18 @@ There are 5 buttons in total that can be used on screen:
    :width: 80                   
    
    
+   Figure 3
+
+
    Toggle the attention symbol above user's avatar
 
 
 .. Figure:: _images/Picture32.png               
    :height: 80                    
    :width: 80                         
+
+
+   Figure 4
 
    
    Toggle muting the microphone, if there are bugs, restart the device and try again 
@@ -43,7 +55,10 @@ There are 5 buttons in total that can be used on screen:
    :width: 80       
 
 
-   Open a larger set of emojis that when pressed it will appear above the user's avatar (Figure 12.1/12.2)        
+   Figure 5
+
+
+   Open a larger set of emojis that when pressed it will appear above the user's avatar (Figure 6/7)        
 
 
 .. Figure:: _images/Picture34.png
@@ -51,7 +66,7 @@ There are 5 buttons in total that can be used on screen:
    :width: 600
 
 
-   Figure 12.1: How the emotes look on Desktop
+   Figure 6: How the emotes look on Desktop
 
 
 .. Figure:: _images/Picture35.png
@@ -59,6 +74,6 @@ There are 5 buttons in total that can be used on screen:
    :width: 400
 
 
-   Figure 12.2: How the emotes look on the Oculus Quest
+   Figure 7: How the emotes look on the Oculus Quest
 
 

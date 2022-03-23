@@ -15,7 +15,7 @@ To Join an Existing Room
    :width: 600
 
 
-   Figure 5.1
+   Figure 1
 
 
 2)	Enter code into the box to join new rooms
@@ -33,7 +33,7 @@ To Join an Existing Room
    :width: 600
 
 
-   Figure 5.2
+   Figure 2
 
 
 Setting up a Meeting
@@ -48,7 +48,7 @@ Setting up a Meeting
    :width: 600
 
 
-   Figure 6.1
+   Figure 3
 
 
 2)	In the settings fill is out the information for the room and then select Create room when done
@@ -65,4 +65,4 @@ Setting up a Meeting
    :width: 600
 
 
-   Figure 6.2
+   Figure 4
