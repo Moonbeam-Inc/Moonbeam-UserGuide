@@ -13,7 +13,7 @@ Adding Users into Team
 ----------------------
 
 
-Once you have created a new team you can add users in two different ways (Figure 7.2)
+Once you have created a new team you can add users in two different ways (Figure 2)
 
 
    •	Invite a member: You can enter a user’s email or username to invite them

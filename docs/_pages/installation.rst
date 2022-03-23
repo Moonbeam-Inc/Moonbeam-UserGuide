@@ -9,12 +9,10 @@ Oculus Quest/Quest 2
 1)	All users should receive an apk file with the Moonbeam application
 
 
-
 2)	SideQuest this onto the Oculus 
 
 
     a.	If unsure how to use SideQuest follow this tutorial: `SideQuest Tutorial <https://uploadvr.com/sideloading-quest-how-to/#:~:text=Allow%20USB%20debugging%20between%20your%20computer%20and%20your,the%20%E2%80%98Always%20allow%20from%20this%20...%20More%20items>`_
-
 
 
         i.	After the setup portion, you want to follow the instructions on Sideloading an .apk from an external source
