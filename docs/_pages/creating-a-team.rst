@@ -3,7 +3,7 @@ Creating a Team
 ---------------
 
 
-1)	From the main menu (Figure 6.1), select Options -> Manage Teams and it will bring you into Figure 7.1.
+1)	From the main menu, select Options -> Manage Teams and it will bring you into Figure 1.
 
 
 2)	Press Create a new team
@@ -37,7 +37,7 @@ If you receive an invite, you could join by accepting the invite on the menu scr
    :width: 600
 
 
-   Figure 7.1
+   Figure 1
  
 
 .. Figure:: _images/Picture15.png
@@ -45,4 +45,4 @@ If you receive an invite, you could join by accepting the invite on the menu scr
    :width: 600
 
 
-   Figure 7.2
+   Figure 2

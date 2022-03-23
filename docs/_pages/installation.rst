@@ -9,10 +9,12 @@ Oculus Quest/Quest 2
 1)	All users should receive an apk file with the Moonbeam application
 
 
+
 2)	SideQuest this onto the Oculus 
 
 
     a.	If unsure how to use SideQuest follow this tutorial: `SideQuest Tutorial <https://uploadvr.com/sideloading-quest-how-to/#:~:text=Allow%20USB%20debugging%20between%20your%20computer%20and%20your,the%20%E2%80%98Always%20allow%20from%20this%20...%20More%20items>`_
+
 
 
         i.	After the setup portion, you want to follow the instructions on Sideloading an .apk from an external source
@@ -54,6 +56,7 @@ Desktop
 1) Download the installer provided by Moonbeam
 
 
+
 2) Windows will prompt, press "More info" and then press "Run anyway"
 
 
@@ -65,7 +68,7 @@ Desktop
    Figure 4
 
 
-2) Follow through the settings
+3) Follow through the settings
 
 
     a.	You can customize download location, shortcut, etc.
@@ -87,7 +90,7 @@ Desktop
    Figure 6
 
 
-3) Press install and it will automatically open the room for you.
+4) Press install and it will automatically open the room for you.
 
 
 .. Figure:: _images/installation_desktop4.png
