@@ -1,9 +1,9 @@
 --------------------------
-Uploading Assets onto Room
+Uploading Assets into Room
 --------------------------
 
-Accessing files in game
------------------------
+Accessing files
+---------------
 
 When you select Model Viewer, PDF, or Photo Viewer; Figure 11.1 should appear from there:
 

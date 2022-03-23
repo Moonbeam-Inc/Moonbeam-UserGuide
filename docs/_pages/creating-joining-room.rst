@@ -24,6 +24,8 @@ To Join an Existing Room
    •	When joining a room, the rooms will be always accessible
       
       i.	These rooms can be accessed by going to Options -> Manage Rooms 
+
+   •	To create a room code, go to In-Game Menu -> Create Room Invite Code
  
 
 .. Figure:: _images/Picture11.png
