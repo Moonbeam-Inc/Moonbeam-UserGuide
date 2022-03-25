@@ -8,8 +8,8 @@ Oculus Quest 1 & 2
 
 
 .. Figure:: _images/Picture16.png
-   :height: 400
-   :width: 600
+   :height: 300
+   :width: 500
 
 
    Figure 1

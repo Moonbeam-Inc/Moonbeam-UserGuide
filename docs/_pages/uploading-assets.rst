@@ -5,10 +5,10 @@ Uploading Assets into Room
 Accessing files
 ---------------
 
-When you select Model Viewer, PDF, or Photo Viewer; Figure 1 should appear from there:
+When you select Model Viewer, PDF, or Photo Viewer; Figure 1 will appear from there:
 
 
-1)	Press Upload and find the file you want to present (Figure 2)
+1)	Press Upload and navigate to the file that you want to upload (Figure 2)
    
    
    •	Model Viewer: Allows zip files of the file type:
@@ -35,7 +35,7 @@ When you select Model Viewer, PDF, or Photo Viewer; Figure 1 should appear from 
    •	Photo Viewer: Figure 4
 
 
-3)	Below will be a couple features that can be adjusted with these files
+3)	The following features have tools associated with them when being used
 
 
    •	PDF and Photo Viewer: There is a tool bar that can adjust the view of the files as well as the zoom
@@ -53,7 +53,7 @@ When you select Model Viewer, PDF, or Photo Viewer; Figure 1 should appear from 
    Figure 1
  
 
-.. Figure:: _images/Picture24.png
+.. Figure:: _images/pdf_viewer.png
    :height: 400
    :width: 600
 
@@ -61,7 +61,7 @@ When you select Model Viewer, PDF, or Photo Viewer; Figure 1 should appear from 
    Figure 2
 
 
-.. Figure:: _images/Picture25.png
+.. Figure:: _images/pdf_viewer2.png
    :height: 400
    :width: 600
 
@@ -100,7 +100,7 @@ Preparation for Oculus Quest/Quest 2
 1) Connect the Quest to your computer of choice using a usb-c cable
 
 
-2) You will be prompted with a permission prompt that says "Allow access to data", press "Allow"
+2) You will be prompted with a permission prompt on your headset that says "Allow access to data", press "Allow"
 
 
 3) Go to the file explorer and select Oculus -> Internal Storage -> Downloads
@@ -108,7 +108,7 @@ Preparation for Oculus Quest/Quest 2
 
 .. Figure:: _images/uploading_asset1.png
    :height: 300
-   :width: 100
+   :width: 150
 
 
    Figure 7
@@ -130,7 +130,7 @@ Preparation for Oculus Quest/Quest 2
    Figure 9
 
 
-4) From there place amy downloaded files of the type :
+4) From there place any downloaded files of the type :
 
 
    •	Model Viewer: Allows zip files of the file type:

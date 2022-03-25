@@ -3,10 +3,10 @@ Taking Screenshots
 ------------------
 
 
-To take a screenshot there are two ways of doing this:
+When taking a screenshot, you can choose between two methods:
 
 
-   •	You can take a screenshot by holding the oculus system button and squeezing the index and hand grip triggers
+   •	You can take a screenshot by holding the Oculus system button and squeezing the index and hand grip triggers
 
 
-   •	Another way is to press the oculus button and, on the menu, pressing the screenshot/screen-recording button
+   •	Another way is to press the Oculus button and, on the menu, pressing the screenshot/screen-recording button

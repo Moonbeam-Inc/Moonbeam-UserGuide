@@ -1,5 +1,5 @@
 ----------------------
-Resetting the password
+Resetting the Password
 ----------------------
 
 
@@ -14,7 +14,7 @@ Resetting the password
    Figure 1
 
 
-2)	When you receive an email (Figure 2) for a rumii account recovery, press the link and then fill out a new password for your account (Figure 3)
+2)	When you receive an email (Figure 2) for a Rumii account recovery, press the link and then fill out a new password for your account (Figure 3)
 
 
 .. Figure:: _images/Picture4.png

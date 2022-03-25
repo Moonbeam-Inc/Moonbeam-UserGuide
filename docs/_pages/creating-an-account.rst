@@ -24,4 +24,4 @@ Creating an Account
 
 
 
-3)	Fill out your information here then you should receive an email from rumii to confirm the new account
+3)	Fill out your information here then you should receive an email from Rumii to confirm the new account

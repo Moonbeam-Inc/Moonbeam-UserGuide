@@ -15,6 +15,10 @@ Licensing Code
 
 
 2)	From this menu, fill out the license key which was received from Moonbeam
+
+	
+	Note: The license key will currently be received through Moonbeam for the time being (Trial Licenses). In the future, it a set number of license keys will be provided to the assigned administrator
+	of the group. Administrators can be assigned in the main menu settings. 
   
 
 .. Figure:: _images/Picture9.png

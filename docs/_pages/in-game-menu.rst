@@ -2,7 +2,7 @@
 In-Game Menu
 ------------
 
- This section will encompass the menu when inside a room. 
+ This section will refer to the menu when inside a room. 
 
 
  .. Figure:: _images/ingamemenu1.png
@@ -18,9 +18,9 @@ In-Game Menu
 +------------------------------+------------------------------------------------------------------------+
 | Create room invite code      | Create an invite code so that guest can join the room (Figure 3)       |
 +------------------------------+------------------------------------------------------------------------+
-| Join a room with invite code | Join a new room using a room code                                      |
+| Join a room with invite code | Join a different room using a room code                                |
 +------------------------------+------------------------------------------------------------------------+
-| Rooms                        | Gets list of the user's room and can move into different selected room |
+| Rooms                        | View list of user's rooms. Join a different room if selected           |
 +------------------------------+------------------------------------------------------------------------+
 | Settings                     | In game settings including audio controls and view controls (Figure 4) |
 +------------------------------+------------------------------------------------------------------------+
@@ -36,13 +36,16 @@ Edit Current Room
 Room Mode: 
 
 
-Lecture mode has one speaker where voice is relayed to everyone
+   •	Lecture mode has one speaker where voice is relayed to everyone
 
 
-Discussion mode allows all users to have spatial hearing with other users
+   •	Discussion mode allows all users to have spatial hearing with other users
 
 
-Vista Views: Changes the scenery outside the room
+Vista Views: 
+
+
+   •	Changes the scenery outside the room
 
 
 .. Figure:: _images/ingamemenu2.png
@@ -73,10 +76,17 @@ Audio Settings
 There are two settings.
 
 
-Audio input device: Change the audio input device if multiple headphones/earbuds are connected to device. 
+   •	Audio input device
+   
+   
+      i.	Change the audio input device if multiple headphones/earbuds are connected to device. 
 
 
-Other users' volume: Lists all players in the room and can adjust the volume for each player per user.
+   •	Other users' volume
+
+   
+      i.	Lists all users in the room and provides ability to adjust individual user volume.
+
 
 .. Figure:: _images/ingamemenu4.png
    :height: 400
@@ -84,3 +94,27 @@ Other users' volume: Lists all players in the room and can adjust the volume for
 
 
    Figure 4
+
+
+Other In-Game Settings
+----------------------
+
+   •	Change field of view
+   
+   
+      i.	Changes the field of view of the user by adjusting the angle at which the user view is zoomed out
+
+
+      ii.   Higher degrees = wider field of vision
+
+
+   •	Mouse Look
+
+   
+      i.	Toggled On: Hold right click to move the user view angle
+
+
+      ii.   Toggled Off: Press right click once to move the user view and press right click again to fixate user view
+
+
+      iii.	Only exists on the Desktop Application
