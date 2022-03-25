@@ -3,7 +3,7 @@ Logging In
 ----------
 
 
-1)	To login, select Login with Moonbeam Envision Account
+1)	To login, select "Login with Moonbeam Envision Account"
  
 
 .. Figure:: _images/Picture6.png

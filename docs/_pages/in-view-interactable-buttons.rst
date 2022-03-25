@@ -94,9 +94,9 @@ On the Quest, there are a few more buttons than the desktop.
 Displays a personal browser in front of you (Figure 9)
 
 
-.. Figure:: _images/icon_AvatarHands.png
-   :height: 400
-   :width: 400
+.. Figure:: _images/icon_browser.png
+   :height: 80                  
+   :width: 80  
 
 
    Figure 9
@@ -106,8 +106,8 @@ In view interactable buttons do not move according to your head position (Figure
 
 
 .. Figure:: _images/icon_HoldBelt.png
-   :height: 400
-   :width: 400
+   :height: 80                  
+   :width: 80  
 
 
    Figure 9
@@ -117,8 +117,8 @@ Changes hand to a lazer pointer that participants can see (Figure 10)
 
 
 .. Figure:: _images/icon_AvatarHands.png
-   :height: 400
-   :width: 400
+   :height: 80                  
+   :width: 80  
 
 
    Figure 10

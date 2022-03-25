@@ -144,7 +144,7 @@ The bulletin board tool can be used for organization of ideas by being able to c
    Figure 6
 
 
-Each button on the tool bar (Figure 9.2) does the following:
+Each button on the tool bar (Figure 7) does the following:
 
 
 +-----------------------------+---------------------------------------------+

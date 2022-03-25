@@ -7,7 +7,7 @@ To Join an Existing Room
 ------------------------
 
 
-1)	Select Redeem a Code on the menu screen
+1)	Select "Redeem a Code" on the Main Menu screen
  
 
 .. Figure:: _images/Picture10.png
@@ -38,7 +38,7 @@ Setting up a Meeting
 --------------------
 
 
-1)	Select Schedule a Meeting on the menu 
+1)	Select "Schedule a Meeting" on the Main Menu 
  
 
 .. Figure:: _images/Picture12.png

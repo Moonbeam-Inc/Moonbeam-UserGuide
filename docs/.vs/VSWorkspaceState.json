@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\_build",
+    "\\_build\\doctrees",
+    "\\_build\\html",
     "\\_build\\html\\_pages",
-    "\\_pages"
+    "\\_pages",
+    "\\_static",
+    "\\_templates"
   ],
   "SelectedNode": "\\_pages\\in-game-menu.rst",
   "PreviewInSolutionExplorer": false

@@ -13,7 +13,7 @@ Creating an Account
    Figure 1
 
 
-2)	Select the Sign up for a Moonbeam Envision account to sign up for an account, which leads to the screen below
+2)	Select the "Sign up for a Moonbeam Envision account" to sign up for an account, which leads to the screen below
  
 .. Figure:: _images/Picture2.png
    :height: 400
