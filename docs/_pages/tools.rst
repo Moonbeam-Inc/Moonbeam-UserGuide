@@ -71,7 +71,7 @@ Sidebar
 Sidebaring allows for users to have conversations independent from the room. This will block any noise in the room and will only allow audio from the players inside the sidebar. (Figure 3)
 
 
-.. Figure:: _images/sidebar.jpg
+.. Figure:: _images/sidebar.png
    :height: 400
    :width: 600
    

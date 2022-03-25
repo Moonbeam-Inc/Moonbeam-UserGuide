@@ -8,11 +8,11 @@ Oculus Quest 1 & 2
 
 
 .. Figure:: _images/Picture16.png
-   :height: 400
-   :width: 600
+   :height: 300
+   :width: 500
 
 
-   Figure 8.1
+   Figure 1
 
 
 +----------------+-----------------------------------------------------------------+
@@ -41,7 +41,7 @@ Another function unique to the VR headset is that the personal note taker can be
    :width: 600
 
 
-   Figure 8.2
+   Figure 2
 
 
 Desktop 
@@ -59,3 +59,22 @@ Desktop
 +--------------+---------------------------------------------+
 | W-A-S-D keys | Movement                                    |
 +--------------+---------------------------------------------+
+
+
+Sitting
+-------
+
+
+*VR*: Hold the grip trigger to create a laser pointer from the controller, then hover over a chair which will create a vortex above the seat (Figure 13.1). Then press the trigger to teleport onto the seat. 
+
+
+*Desktop*: Hover the mouse over the seat until vortex appears then left click onto the seat to teleport there. 
+
+
+
+.. Figure:: _images/Picture36.png
+   :height: 400
+   :width: 600
+
+
+   Figure 3

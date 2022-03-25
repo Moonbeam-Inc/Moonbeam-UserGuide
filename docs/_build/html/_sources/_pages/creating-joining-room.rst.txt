@@ -15,15 +15,15 @@ To Join an Existing Room
    :width: 600
 
 
-   Figure 5.1
+   Figure 1
 
 
 2)	Enter code into the box to join new rooms
 
 
-   •	When joining a room, the rooms will be always accessible
-      
-      i.	These rooms can be accessed by going to Options -> Manage Rooms 
+   •	These rooms can be accessed by going to Options -> Manage Rooms 
+
+   •	To create a room code, go to In-Game Menu -> Create Room Invite Code
  
 
 .. Figure:: _images/Picture11.png
@@ -31,7 +31,7 @@ To Join an Existing Room
    :width: 600
 
 
-   Figure 5.2
+   Figure 2
 
 
 Setting up a Meeting
@@ -46,16 +46,16 @@ Setting up a Meeting
    :width: 600
 
 
-   Figure 6.1
+   Figure 3
 
 
-2)	In the settings fill is out the information for the room and then select Create room when done
+2)	Fill is out the information (Name, Date, Time, Type, Region) for the room and then select "Create room" when done (Figure 4)
 
 
-   •	The rooms will remain accessible to any member who has been given the room code even if it out of the scope of the meeting times
+   •	The rooms will remain in the user's "Your Team Rooms:" to any member who has been given the room code. (If not visible remember to "Change Team" to the team the meeting was assigned)
 
 
-   •	The users who can be invited must have logged onto Moonbeam once before
+   •	To invite attendees, invitees must first have created a Moonbeam account and logged into Moonbeam at least once.
  
 
 .. Figure:: _images/Picture13.png
@@ -63,4 +63,4 @@ Setting up a Meeting
    :width: 600
 
 
-   Figure 6.2
+   Figure 4

@@ -3,61 +3,80 @@ Tools
 -----
 
 
-Sticky/Bulletin Board
----------------------
+Transcript
+----------
 
 
-The whiteboarding tool would be used for organization of ideas and will give multiple users to collectively add more to this board.
+The transcript function will automatically keep track of what is said in the meeting space when a user speaks. This can be sent directly to your email address
+
+by pressing the "Email Transcript" button (Figure 1)
 
 
-.. Figure:: _images/Picture18.png
+Insights
+--------
+
+
+The insight function will automatically save user’s comments that the system recognizes to be of importance. For example, questions or commands are saved onto insights.
+
+This can be sent directly to your email address by pressing the "Email Insights" button (Figure 1)
+
+
+.. Figure:: _images/Picture37.png
    :height: 400
    :width: 600
 
 
-   Figure 9.1
+   Figure 1
 
 
-Each button on the tool bar (Figure 9.2) does the following:
+Whiteboard
+----------
 
 
-+-----------------------------+---------------------------------------------+
-| Button                      | Action                                      |
-+-----------------------------+---------------------------------------------+
-| Sticky note with the + sign | This will upload a new sticky note where    |
-|                             | the user can type onto the note and change  |
-|                             | the color of the sticky note (Figure 9.3)   |
-+-----------------------------+---------------------------------------------+
-| Colored sticky notes        | Depending on the color the user selects,    |
-|                             | everything but the selected color note will |
-|                             | turn invisible                              |
-+-----------------------------+---------------------------------------------+
-| White graph                 | Produces a 3D model graph (Figure 9.4)      |
-+-----------------------------+---------------------------------------------+
+   •	The whiteboard is a freehand whiteboard like the Widget Board whiteboard. 
+   
+      
+      o	    This VR controllers mimic the action of marker onto whiteboard. 
 
 
-.. Figure:: _images/Picture19.png
+   •	To draw on the whiteboard, approach the board and raise your controllers close to the board. A drawing tool will automatically appear in your hand.
+
+
+   •	To erase content on the whiteboard, face your palms upward near the board and an eraser will automatically appear in your hand. (In development)
+
+
+   •	Along the sides of the whiteboard, you will find color palletes. Press the trigger over the desired color to select it. 
+   
+
+      o	    The color of the marker will change and confirm the selection. 
+
+
+   •	To save what has been drawn, press the "Email a Snapshot" button below the board in order to send it to the email address associated with your Moonbeam account.
+
+
+   •	More whiteboards can be spawned into the room by Quest users by looking down at their left wrist panel and selecting 
+
+
+.. Figure:: _images/tools_new_whiteboard.jpg
    :height: 400
    :width: 600
+   
+
+   Figure 2
 
 
-   Figure 9.2
-  
+Sidebar
+-------
 
-.. Figure:: _images/Picture20.png
+Sidebaring allows for users to have conversations independent from the room. This will block any noise in the room and will only allow audio from the players inside the sidebar. (Figure 3)
+
+
+.. Figure:: _images/sidebar.png
    :height: 400
    :width: 600
+   
 
-
-   Figure 9.3		 				    
-
-
-.. Figure:: _images/Picture21.png
-   :height: 300
-   :width: 600
-
-
-   Figure 9.4
+   Figure 3
 
 
 Widget Board
@@ -69,11 +88,11 @@ The widget board has these functions:
 +----------------+---------------------------------------------+
 | Button         | Action                                      |
 +----------------+---------------------------------------------+
-| White Board    | Turns into a whiteboard where users can     |
-|                | write freely                                |
+| White Board    | Turns into a whiteboard on which users      |
+|                | can write freely                            |
 +----------------+---------------------------------------------+
 | Web Browser    | Becomes a web browser that user can use     |
-|                | to search content online                    |
+|                | to navigate content online                  |
 +----------------+---------------------------------------------+
 | Photo Viewer   | Allows pre-uploaded photos to be viewed     |
 |                | on the widget                               |
@@ -88,74 +107,83 @@ The widget board has these functions:
 +----------------+---------------------------------------------+
 
 
+Note: To learn to pre-upload PDF/image/3D models refer to the section "Uploading Assets".
+
+
 .. Figure:: _images/Picture22.png
    :height: 400
    :width: 600
 
 
-   Figure 10.1
-
-Sitting
--------
+   Figure 4
 
 
-*VR*: Hold the grip trigger to create a laser pointer from the controller, then hover over a chair which will create a vortex above the seat (Figure 13.1). Then press the trigger to teleport onto the seat. 
+Initial web browser homepage can be changed in the Main Menu Options -> Settings -> Browser homepage. 
 
 
-*Desktop*: Hover the mouse over the seat until vortex appears then left click onto the seat to teleport there. 
-
-
-
-.. Figure:: _images/Picture36.png
+.. Figure:: _images/browserhomepage.png
    :height: 400
    :width: 600
 
 
-   Figure 13.1
+   Figure 5
 
 
-Transcript
-----------
+Sticky/Bulletin Board
+---------------------
 
 
-The transcript function will automatically keep track of what is said in the meeting space when a user speaks. This can be emailed directly to your email address. 
+The bulletin board tool can be used for organization of ideas by being able to create and place sticky notes onto a business model board.
 
 
-Insights
---------
-
-
-The insight function will automatically save user’s comments that the system recognizes to be of importance. For example, questions or commands are saved onto insights. 
-
-
-.. Figure:: _images/Picture37.png
+.. Figure:: _images/Picture18.png
    :height: 400
    :width: 600
 
 
-   Figure 14.1
+   Figure 6
 
 
-Whiteboard
-----------
+Each button on the tool bar (Figure 9.2) does the following:
 
 
-The whiteboard is a freehand whiteboard like the Widget Board whiteboard. What makes this different from the widget is that the widget uses a laser pointer to draw but for the whiteboard it uses VR controllers to mimic the action of writing onto the whiteboard. 
++-----------------------------+---------------------------------------------+
+| Button                      | Action                                      |
++-----------------------------+---------------------------------------------+
+| Sticky note with the + sign | This will upload a new sticky note where    |
+|                             | the user can type onto the note and change  |
+|                             | the color of the sticky note (Figure 7/8)   |
++-----------------------------+---------------------------------------------+
+| Colored sticky notes        | Depending on the color the user selects,    |
+|                             | everything but the selected color note will |
+|                             | turn invisible                              |
++-----------------------------+---------------------------------------------+
+| White graph                 | Produces a 3D model graph example           |
+|                             | (Figure 9) that prototypes potential        |
+|                             | visualization of web diagrams in VR         |
++-----------------------------+---------------------------------------------+
 
 
-To draw on the whiteboard just go up to it and bring your controllers close to the board and a drawing tool will appear. 
-
-
-To erase on the whiteboard, face your palms up which will spawn an eraser and then rub across the board 
-
-
-If you want to save what is written, there is an Email a Snapshot button below the board which can send the drawings over. 
-
-
-
-.. Figure:: _images/Picture38.png
+.. Figure:: _images/Picture19.png
    :height: 400
    :width: 600
-   
 
-   Figure 15.1
+
+   Figure 7
+  
+
+.. Figure:: _images/Picture20.png
+   :height: 400
+   :width: 600
+
+
+   Figure 8		    
+
+
+.. Figure:: _images/Picture21.png
+   :height: 300
+   :width: 600
+
+
+   Figure 9
+
