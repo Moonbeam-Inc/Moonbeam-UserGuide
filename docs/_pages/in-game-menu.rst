@@ -79,13 +79,13 @@ There are two settings.
 - Audio input device
    
    
-      i.	Change the audio input device if multiple headphones/earbuds are connected to device. 
+      -	Change the audio input device if multiple headphones/earbuds are connected to device. 
 
 
 - Other users' volume
 
    
-      i.	Lists all users in the room and provides ability to adjust individual user volume.
+      -	Lists all users in the room and provides ability to adjust individual user volume.
 
 
 .. Figure:: _images/ingamemenu4.png
@@ -102,19 +102,19 @@ Other In-Game Settings
 - Change field of view
    
    
-      i.	Changes the field of view of the user by adjusting the angle at which the user view is zoomed out
+      -	Changes the field of view of the user by adjusting the angle at which the user view is zoomed out
 
 
-      ii.   Higher degrees = wider field of vision
+      -   Higher degrees = wider field of vision
 
 
 - Mouse Look
 
    
-      i.	Toggled On: Hold right click to move the user view angle
+      -	Toggled On: Hold right click to move the user view angle
 
 
-      ii.   Toggled Off: Press right click once to move the user view and press right click again to fixate user view
+      -   Toggled Off: Press right click once to move the user view and press right click again to fixate user view
 
 
-      iii.	Only exists on the Desktop Application
+      -	Only exists on the Desktop Application
