@@ -22,7 +22,7 @@ copyright = '2021, Moonbeam'
 author = 'Moonbeam'
 
 # The full version, including alpha/beta/rc tags
-release = '1.14'
+release = '1.18'
 
 
 # -- General configuration ---------------------------------------------------
