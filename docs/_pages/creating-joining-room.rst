@@ -23,7 +23,9 @@ To Join an Existing Room
 
    •	These rooms can be accessed by going to Options -> Manage Rooms 
 
-   •	To create a room code, go to In-Game Menu -> Create Room Invite Code
+   •	To create a room code, enter the desired room and in the in-game menu, select "Create room invite code". Fill out the desired expiration date and the code can be sent out amongst the invitees. 
+
+	- For image reference, check out In-Game Menu -> Create Room Invite Code inside this guide. 
  
 
 .. Figure:: _images/Picture11.png
