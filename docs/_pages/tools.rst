@@ -57,7 +57,7 @@ Whiteboard
    •	More whiteboards can be spawned into the room by Quest users by looking down at their left wrist panel and selecting 
 
 
-.. Figure:: _images/tools_new_whiteboard.jpg
+.. Figure:: _images/tools_new_whiteboard.png
    :height: 400
    :width: 600
    
