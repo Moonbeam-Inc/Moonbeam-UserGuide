@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\_build",
-    "\\_build\\html\\_pages",
-    "\\_pages",
-    "\\_static",
-    "\\_templates"
+    "\\_pages"
   ],
-  "SelectedNode": "\\conf.py",
+  "SelectedNode": "\\_pages\\uploading-assets.rst",
   "PreviewInSolutionExplorer": false
 }

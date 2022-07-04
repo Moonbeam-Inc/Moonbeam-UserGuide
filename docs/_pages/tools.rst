@@ -36,7 +36,7 @@ Whiteboard
    •	The whiteboard is a freehand whiteboard like the Widget Board whiteboard. 
    
       
-      o	    This VR controllers mimic the action of marker onto whiteboard. 
+      o	    The VR controllers mimic the action of marker onto whiteboard. 
 
 
    •	To draw on the whiteboard, approach the board and raise your controllers close to the board. A drawing tool will automatically appear in your hand.
@@ -55,6 +55,9 @@ Whiteboard
 
 
    •	More whiteboards can be spawned into the room by Quest users by looking down at their left wrist panel and selecting 
+   
+
+   - Whiteboard is persistent; When leaving and re-entering room, the whiteboard will remain the same as the user leaves it
 
 
 .. Figure:: _images/tools_new_whiteboard.png
@@ -65,10 +68,35 @@ Whiteboard
    Figure 2
 
 
+   - To use the eraser, press on the button as seen in Figure 3
+
+   
+   - For Desktop, you can also hold the spacebar and click to erase
+
+
+.. Figure:: _images/whiteboard_eraser.png
+   :height: 100
+   :width: 100
+
+
+   Figure 3
+
+
+   - To clear the board, press on the button as seen in Figure 4
+
+
+.. Figure:: _images/whiteboard_clear.png
+   :height: 100
+   :width: 100
+
+
+   Figure 4
+
+
 Sidebar
 -------
 
-Sidebaring allows for users to have conversations independent from the room. This will block any noise in the room and will only allow audio from the players inside the sidebar. (Figure 3)
+Sidebaring allows for users to have conversations independent from the room. This will block any noise in the room and will only allow audio from the players inside the sidebar. (Figure 5)
 
 
 .. Figure:: _images/sidebar.png
@@ -76,7 +104,7 @@ Sidebaring allows for users to have conversations independent from the room. Thi
    :width: 600
    
 
-   Figure 3
+   Figure 5
 
 
 Widget Board
@@ -115,7 +143,7 @@ Note: To learn to pre-upload PDF/image/3D models refer to the section "Uploading
    :width: 600
 
 
-   Figure 4
+   Figure 6
 
 
 Initial web browser homepage can be changed in the Main Menu Options -> Settings -> Browser homepage. 
@@ -126,7 +154,7 @@ Initial web browser homepage can be changed in the Main Menu Options -> Settings
    :width: 600
 
 
-   Figure 5
+   Figure 7
 
 
 Sticky/Bulletin Board
@@ -141,10 +169,10 @@ The bulletin board tool can be used for organization of ideas by being able to c
    :width: 600
 
 
-   Figure 6
+   Figure 8
 
 
-Each button on the tool bar (Figure 7) does the following:
+Each button on the tool bar (Figure 9) does the following:
 
 
 +-----------------------------+---------------------------------------------+
@@ -152,14 +180,14 @@ Each button on the tool bar (Figure 7) does the following:
 +-----------------------------+---------------------------------------------+
 | Sticky note with the + sign | This will upload a new sticky note where    |
 |                             | the user can type onto the note and change  |
-|                             | the color of the sticky note (Figure 7/8)   |
+|                             | the color of the sticky note (Figure 9/10)  |
 +-----------------------------+---------------------------------------------+
 | Colored sticky notes        | Depending on the color the user selects,    |
 |                             | everything but the selected color note will |
 |                             | turn invisible                              |
 +-----------------------------+---------------------------------------------+
 | White graph                 | Produces a 3D model graph example           |
-|                             | (Figure 9) that prototypes potential        |
+|                             | (Figure 11) that prototypes potential       |
 |                             | visualization of web diagrams in VR         |
 +-----------------------------+---------------------------------------------+
 
@@ -169,7 +197,7 @@ Each button on the tool bar (Figure 7) does the following:
    :width: 600
 
 
-   Figure 7
+   Figure 9
   
 
 .. Figure:: _images/Picture20.png
@@ -177,7 +205,7 @@ Each button on the tool bar (Figure 7) does the following:
    :width: 600
 
 
-   Figure 8		    
+   Figure 10
 
 
 .. Figure:: _images/Picture21.png
@@ -185,5 +213,11 @@ Each button on the tool bar (Figure 7) does the following:
    :width: 600
 
 
-   Figure 9
+   Figure 11
 
+
+Screen Sharing
+--------------
+
+
+The screen sharing tool can be used to share the users desired screen. 

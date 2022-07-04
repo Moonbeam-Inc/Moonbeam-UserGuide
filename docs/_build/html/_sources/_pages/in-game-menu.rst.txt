@@ -96,6 +96,20 @@ There are two settings.
    Figure 4
 
 
+Closed Captioning
+-----------------
+
+Closed captioning displayed the audio of each player under their avatar if toggled
+
+
+.. Figure:: _images/closedcaption.png
+   :height: 400
+   :width: 600
+
+
+   Figure 5
+
+
 Other In-Game Settings
 ----------------------
 

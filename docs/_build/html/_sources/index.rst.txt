@@ -8,6 +8,9 @@ Moonbeam Envision's Documentation
 =================================
 Welcome to Moonbeam Envision's Documentation page. Here you will get a tutorial as well as all the necessary information to get started.
 
+.. Figure:: _pages/_images/frontpagepic.png
+   :height: 400
+   :width: 600
 
 .. toctree::
    :maxdepth: 2

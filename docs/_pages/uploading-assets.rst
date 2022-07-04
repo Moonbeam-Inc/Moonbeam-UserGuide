@@ -20,7 +20,7 @@ When you select Model Viewer, PDF, or Photo Viewer; Figure 1 will appear from th
     - PDF: Only allows .pdf files to be selected
    
    
-    - Photo Viewer: Only allows for .png files to be selected
+    - Photo Viewer: Only allows for .png and .jpg files to be selected
 
 
 2)	If the following appears, the files have been successfully uploaded

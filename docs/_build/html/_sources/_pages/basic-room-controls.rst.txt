@@ -36,7 +36,7 @@ To see the toolbar using a VR headset, the user can look down and it will appear
 Another function unique to the VR headset is that the personal note taker can be seen on the left wrist of the avatar. This note taker is used for personal note taking use only. 
 
 
-.. Figure:: _images/Picture17.png
+.. Figure:: _images/Picture17.jpg
    :height: 400
    :width: 600
 

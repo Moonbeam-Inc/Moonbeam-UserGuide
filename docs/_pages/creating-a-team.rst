@@ -38,7 +38,7 @@ Once you have created a new team you can add users in two different ways (Figure
    •	Invite a member: You can enter a user’s email or username to invite them
 
 
-      o	Note: The user must have already logged on with the account once to be invited this way
+      o	If the member does not have an account with Moonbeam, they will be sent an link to create an account to the email inputted
 
 
    •	Create invite code: You create a room code which you can share with users in order for them to Join and Existing Room
