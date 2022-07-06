@@ -57,7 +57,7 @@ Whiteboard
    •	More whiteboards can be spawned into the room by Quest users by looking down at their left wrist panel and selecting 
    
 
-   - Whiteboard is persistent; When leaving and re-entering room, the whiteboard will remain the same as the user leaves it
+   -    Whiteboard is persistent; When leaving and re-entering room, the whiteboard will remain the same as the user leaves it
 
 
 .. Figure:: _images/tools_new_whiteboard.png
@@ -221,3 +221,20 @@ Screen Sharing
 
 
 The screen sharing tool can be used to share the users desired screen. 
+
+
+.. Figure:: _images/screenshare_sidebar.png
+   :height: 314
+   :width: 162
+
+
+   Figure 12
+
+
+- The first button "X" closes out of the screenshare
+
+- The second button is the play/pause button to play/pause the screenshare
+
+- The third button is the desktop button which if the user has multiple monitors can move the screenshare to a different monitor
+
+- The fourth button shows the frame rate the screenshare is displaying and can cycle from 5, 15, or 30

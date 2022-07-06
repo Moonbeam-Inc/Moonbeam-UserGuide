@@ -110,6 +110,14 @@ Closed captioning displayed the audio of each player under their avatar if toggl
    Figure 5
 
 
+.. Figure:: _images/closedcaption2.png
+   :height: 400
+   :width: 600
+
+
+   Figure 6
+
+
 Other In-Game Settings
 ----------------------
 
