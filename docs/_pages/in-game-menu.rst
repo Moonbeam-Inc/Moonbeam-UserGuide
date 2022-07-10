@@ -2,10 +2,10 @@
 In-Game Menu
 ------------
 
- This section will refer to the menu when inside a room. 
+This section will refer to the menu when inside a room. 
 
 
- .. Figure:: _images/ingamemenu1.png
+.. Figure:: _images/ingamemenu1.png
    :height: 400
    :width: 600
 
@@ -99,7 +99,7 @@ There are two settings.
 Closed Captioning
 -----------------
 
-Closed captioning displayed the audio of each player under their avatar if toggled
+Closed captioning displays the audio of each player under their avatar if toggled
 
 
 .. Figure:: _images/closedcaption.png

@@ -14,10 +14,10 @@ Creating a Team
    Figure 1
 
 
-2)	Press "Create a new team"
+2)	Select "Create a new team"
 
 
-3)  Type a new team name and then press "OK"
+3)  Type a new team name and then select "OK"
 
 
 .. Figure:: _images/create_a_new_team.png
@@ -38,10 +38,10 @@ Once you have created a new team you can add users in two different ways (Figure
    •	Invite a member: You can enter a user’s email or username to invite them
 
 
-      o	If the member does not have an account with Moonbeam, they will be sent an link to create an account to the email inputted
+      o	If the member does not have an account with Moonbeam, they will be sent an link to the email you enter
 
 
-   •	Create invite code: You create a room code which you can share with users in order for them to Join and Existing Room
+   •	Create invite code: You create a room code which you can share with users in order for them to Join an Existing Room
 
 
 .. Figure:: _images/Picture15.png

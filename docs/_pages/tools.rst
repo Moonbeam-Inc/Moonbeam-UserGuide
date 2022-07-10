@@ -7,9 +7,7 @@ Transcript
 ----------
 
 
-The transcript function will automatically keep track of what is said in the meeting space when a user speaks. This can be sent directly to your email address
-
-by pressing the "Email Transcript" button (Figure 1)
+The transcript function will automatically keep track of what is said in the meeting space when a user speaks. This can be sent directly to your email address by pressing the "Email Transcript" button (Figure 1)
 
 
 Insights
@@ -33,30 +31,16 @@ Whiteboard
 ----------
 
 
-   •	The whiteboard is a freehand whiteboard like the Widget Board whiteboard. 
-   
-      
-      o	    The VR controllers mimic the action of marker onto whiteboard. 
-
+   •	The whiteboard is a freehand whiteboard for VR users and a draw pad for desktop users. For Vr users, the controllers mimic the action of marker onto whiteboard. 
 
    •	To draw on the whiteboard, approach the board and raise your controllers close to the board. A drawing tool will automatically appear in your hand.
 
+   •	To erase content on the whiteboard, face your palms upward near the board and an eraser will automatically appear in your hand. 
 
-   •	To erase content on the whiteboard, face your palms upward near the board and an eraser will automatically appear in your hand. (In development)
-
-
-   •	Along the sides of the whiteboard, you will find color palletes. Press the trigger over the desired color to select it. 
-   
-
-      o	    The color of the marker will change and confirm the selection. 
-
+   •	Along the sides of the whiteboard, you will find color palletes. Select the desired color. The color of the marker will change and confirm the selection. 
 
    •	To save what has been drawn, press the "Email a Snapshot" button below the board in order to send it to the email address associated with your Moonbeam account.
-
-
-   •	More whiteboards can be spawned into the room by Quest users by looking down at their left wrist panel and selecting 
    
-
    -    Whiteboard is persistent; When leaving and re-entering room, the whiteboard will remain the same as the user leaves it
 
 
@@ -96,7 +80,7 @@ Whiteboard
 Sidebar
 -------
 
-Sidebaring allows for users to have conversations independent from the room. This will block any noise in the room and will only allow audio from the players inside the sidebar. (Figure 5)
+The sidebar feature allows users to have conversations apart from the other users in the room. While in a sidebar, the users' conversation will not be heard by others in the room or recorded on the room's transcript board, but you will still be able to hear users not in the sidebar. (Figure 5)
 
 
 .. Figure:: _images/sidebar.png

@@ -5,10 +5,10 @@ Uploading Assets into Room
 Accessing files
 ---------------
 
-When you select Model Viewer, PDF, or Photo Viewer; Figure 1 will appear from there:
+When you select Model Viewer, PDF, or Photo Viewer; Figure 1 will appear:
 
 
-1)	Press Upload and navigate to the file that you want to upload (Figure 2)
+1)	Select upload and navigate to the file that you want to upload (Figure 2)
    
    
     - Model Viewer: Allows zip files of the file type:
@@ -130,7 +130,7 @@ Preparation for Oculus Quest/Quest 2
    Figure 9
 
 
-4) From there place any downloaded files of the type :
+4) Place any downloaded files of the following types:
 
 
     - Model Viewer: Allows zip files of the file type:

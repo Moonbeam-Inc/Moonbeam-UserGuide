@@ -6,7 +6,7 @@ Installation
 Oculus Quest/Quest 2
 ---------------------
 
-Note: If an older version of Moonbeam is already installed, delete it before going through the below steps.
+Note: If an older version of Moonbeam is already installed, uninstall and remove it before going through the below steps.
 
 
 1)	All users should receive an apk file with the Moonbeam application
@@ -35,7 +35,7 @@ Note: If an older version of Moonbeam is already installed, delete it before goi
    Figure 1
 
 
-.. Figure:: _images/Picture02.png
+.. Figure:: _images/Picture02.jpg
    :height: 400
    :width: 600
 
@@ -62,8 +62,8 @@ Desktop
 
 
 .. Figure:: _images/installation_desktop1.png
-   :height: 400
-   :width: 600
+   :height: 500
+   :width: 534
 
 
    Figure 4
@@ -91,7 +91,7 @@ Desktop
    Figure 6
 
 
-4) Press install and it will automatically open Moonbeam.
+4) Press install and then open Moonbeam. 
 
 
 .. Figure:: _images/installation_desktop4.png

@@ -28,7 +28,7 @@ Toggle the active state of the sidebar conversation (Figure 2)
    Figure 2
 
 
-Toggle the view to picture mode which shows a 2D panel of an open widget board on the your screen (Figure 3)
+Toggle the view to picture mode which shows a 2D panel of an open widget board on your screen (Figure 3)
 
 
 .. Figure:: _images/Picture30.png   
@@ -50,7 +50,7 @@ Toggle the attention symbol above your avatar (Figure 4)
    Figure 4
 
 
-Toggle muting your microphone, if there are bugs, restart the device and try again (Figure 5)
+Toggle muting your microphone (Figure 5)
 
 
 .. Figure:: _images/Picture32.png               
@@ -61,7 +61,7 @@ Toggle muting your microphone, if there are bugs, restart the device and try aga
    Figure 5
 
    
-Open a larger set of emojis which, when pressed, appear above your avatar (Figure 6/7/8)        
+Open a larger set of emojis which, when pressed, appear above your avatar (Figure 6/7)        
 
 
 .. Figure:: _images/Picture33.png    
@@ -80,7 +80,7 @@ Open a larger set of emojis which, when pressed, appear above your avatar (Figur
    Figure 7: How the emotes look on Desktop
 
 
-On the Quest, there are a few more buttons than the desktop.
+On the Quest, there are a few more buttons than the desktop (Figure 8)
 
 
 .. Figure:: _images/Picture35.png

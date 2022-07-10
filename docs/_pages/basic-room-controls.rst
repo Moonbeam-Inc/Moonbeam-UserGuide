@@ -69,7 +69,7 @@ Sitting
 -------
 
 
-*VR*: Hold the grip trigger to create a laser pointer from the controller, then hover over a chair which will create a vortex above the seat (Figure 13.1). Then press the trigger to teleport onto the seat. 
+*VR*: Hold the grip trigger to create a laser pointer from the controller, then hover over a chair which will create a vortex above the seat (Figure 3). Then press the trigger to teleport onto the seat. 
 
 
 *Desktop*: Hover the mouse over the seat until vortex appears then left click onto the seat to teleport there. 

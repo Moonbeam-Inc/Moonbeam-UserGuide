@@ -14,7 +14,7 @@ Logging In
    Figure 1
 
 
-2)	Sign in using your email as the username and the password you made from when you created the account
+2)	Sign in using your email as the username and the password you made when you created the account
 
 
    •	If there is a login error, you might need to reset your password or create a new account

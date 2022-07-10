@@ -3,39 +3,6 @@ Creating/Joining a Room
 -----------------------
 
 
-To Join an Existing Room
-------------------------
-
-
-1)	Select "Redeem a Code" on the Main Menu screen
- 
-
-.. Figure:: _images/Picture10.png
-   :height: 400
-   :width: 600
-
-
-   Figure 1
-
-
-2)	Enter code into the box to join new rooms
-
-
-   •	These rooms can be accessed by going to Options -> Manage Rooms 
-
-   •	To create a room code, enter the desired room and in the in-game menu, select "Create room invite code". Fill out the desired expiration date and the code can be sent out amongst the invitees. 
-
-	- For image reference, check out In-Game Menu -> Create Room Invite Code inside this guide. 
- 
-
-.. Figure:: _images/Picture11.png
-   :height: 400
-   :width: 600
-
-
-   Figure 2
-
-
 Setting up a Meeting
 --------------------
 
@@ -48,10 +15,10 @@ Setting up a Meeting
    :width: 600
 
 
-   Figure 3
+   Figure 1
 
 
-2)	Fill is out the information (Name, Date, Time, Type, Region) for the room and then select "Create room" when done (Figure 4)
+2)	Fill is out the information (Name, Date, Time, Type, Region) for the room and then select "Create room" when done (Figure 2)
 
 
    •	The rooms will remain in the user's "Your Team Rooms:" to any member who has been given the room code. (If not visible remember to "Change Team" to the team the meeting was assigned)
@@ -65,4 +32,48 @@ Setting up a Meeting
    :width: 600
 
 
+   Figure 2
+
+
+To Join a Room
+--------------
+
+
+1)	Select "Redeem a Code" on the Main Menu screen
+ 
+
+.. Figure:: _images/Picture10.png
+   :height: 400
+   :width: 600
+
+
+   Figure 3
+
+
+2)	Enter code into the box to join new rooms
+
+
+   •	One way to create a code is by going to Options -> Manage Rooms and selectng the button in Figure 4 
+
+   •	Another way to create a code is by entering a meeting room and following the steps in the user guide section In-Game Menu -> Create Room Invite Code
+
+   -	You can use a team code using the steps in the user guide section Creating a Team -> Create Invite Code
+ 
+
+.. Figure:: _images/roomcode1.png
+   :height: 400
+   :width: 600
+
+
    Figure 4
+
+
+.. Figure:: _images/Picture11.png
+   :height: 400
+   :width: 600
+
+
+   Figure 5
+
+
+
