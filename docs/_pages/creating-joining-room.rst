@@ -40,6 +40,11 @@ To Join a Room
 
 
 1)	Select "Redeem a Code" on the Main Menu screen
+
+
+	-	Redeeming a team code will assign the player into the team the code was created for, which will give access to all team rooms. 
+
+	-	Redeeming a room code will give access to the single room until the room code expires. You will need to input the room code every time to join the room. 
  
 
 .. Figure:: _images/Picture10.png
@@ -57,7 +62,7 @@ To Join a Room
 
    •	Another way to create a code is by entering a meeting room and following the steps in the user guide section In-Game Menu -> Create Room Invite Code
 
-   -	You can use a team code using the steps in the user guide section Creating a Team -> Create Invite Code
+   -	You can use a team code using the steps in the user guide section Creating a Team -> Adding Users into Team
  
 
 .. Figure:: _images/roomcode1.png
